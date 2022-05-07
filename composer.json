@@ -1,0 +1,18 @@
+{
+    "name": "koirala/weatherpackage",
+    "description": "Weather package for Assignment CSE451",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Koirala\\Weatherpackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "koirala",
+            "email": "koirala@miamioh.edu"
+        }
+    ],
+    "require": {}
+}
